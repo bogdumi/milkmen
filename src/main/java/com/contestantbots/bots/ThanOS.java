@@ -4,8 +4,8 @@ import com.contestantbots.framework.Commander;
 import com.contestantbots.framework.ContestantBotImplementation;
 import com.contestantbots.framework.GameState;
 
-public class UnnamedBot extends ContestantBotImplementation {
-    public UnnamedBot() { super("Unnamed bot"); }
+public class ThanOS extends ContestantBotImplementation {
+    public ThanOS() { super("ThanOS"); }
 
     public void getReady(GameState gameState) {}
 
