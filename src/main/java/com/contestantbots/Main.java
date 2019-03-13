@@ -17,7 +17,7 @@ public class Main {
         new BotTester().startTest(
             // which of your bots you'd like to test (you'll start with only one, but it's fine to create more)
             ThanOS.class,
-
+            
             // the arena to battle in - 'harder' arenas are typically bigger
             Map.Small,
 

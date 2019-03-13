@@ -5,6 +5,9 @@ import com.contestantbots.framework.ContestantBotImplementation;
 import com.contestantbots.framework.GameState;
 
 public class ThanOS extends ContestantBotImplementation {
+
+    
+
     public ThanOS() { super("ThanOS"); }
 
     public void getReady(GameState gameState) {}
