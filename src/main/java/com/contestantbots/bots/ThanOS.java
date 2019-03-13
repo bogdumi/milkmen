@@ -9,6 +9,7 @@ public class ThanOS extends ContestantBotImplementation {
     
 
     public ThanOS() { super("ThanOS"); }
+    
 
     public void getReady(GameState gameState) {}
 
