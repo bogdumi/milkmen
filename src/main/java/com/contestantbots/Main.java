@@ -1,6 +1,6 @@
 package com.contestantbots;
 
-import com.contestantbots.bots.UnnamedBot;
+import com.contestantbots.bots.ThanOS;
 import com.contestantbots.framework.bottester.BotTester;
 import com.contestantbots.framework.bottester.Map;
 import com.contestantbots.framework.bottester.Opponent;
@@ -16,7 +16,7 @@ public class Main {
     public static void main(String ignored[]) throws Exception {
         new BotTester().startTest(
             // which of your bots you'd like to test (you'll start with only one, but it's fine to create more)
-            UnnamedBot.class,
+            ThanOS.class,
 
             // the arena to battle in - 'harder' arenas are typically bigger
             Map.Small,
