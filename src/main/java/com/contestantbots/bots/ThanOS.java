@@ -6,7 +6,9 @@ import com.contestantbots.framework.GameState;
 
 public class ThanOS extends ContestantBotImplementation {
 
-    
+    public star(int targetX, int targetY){
+        Node openList[], closedList;
+    }
 
     public ThanOS() { super("ThanOS"); }
 
