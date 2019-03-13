@@ -4,6 +4,7 @@ import com.contestantbots.bots.ThanOS;
 import com.contestantbots.framework.bottester.BotTester;
 import com.contestantbots.framework.bottester.Map;
 import com.contestantbots.framework.bottester.Opponent;
+import com.contestantbots.samplebots.RandomBot;
 
 import java.util.Arrays;
 
@@ -23,7 +24,7 @@ public class Main {
 
             // the opponents you'll be facing - there must be at least 1 of them, and can be more on larger maps
             Arrays.asList(
-                Opponent.Default),
+                Opponent.Milestone2),
 
             // disables the time limit on each bot's turn - this saves you from
             // being disqualified when you're debugging your code

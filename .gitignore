@@ -36,3 +36,9 @@ bin/main/com/contestantbots/framework/ContestantBotImplementation\$InternalComma
 \.gradle/4\.10\.2/fileHashes/fileHashes\.bin
 
 \.gradle/4\.10\.2/fileChanges/last-build\.bin
+
+*.bin
+
+*.lock
+
+*.properties
