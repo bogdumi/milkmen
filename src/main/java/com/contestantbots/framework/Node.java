@@ -77,6 +77,7 @@ public class Node {
         this.calcG();
         this.calcH(target);
         this.f = this.g + this.h;
+        f-matrix[this.pos.getX()][this.pos.getY()] = this.f;
     }
 
     public void calcG(){

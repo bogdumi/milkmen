@@ -10,7 +10,6 @@ import java.util.List;
 import java.lang.Object;
 import java.util.ArrayList;
 
-int f-matrix[100][100];
 
 public class ThanOS extends ContestantBotImplementation {
 
