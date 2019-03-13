@@ -1,8 +1,5 @@
-# milkmen
+# Milkmen
 
-the team next to us sucks
+AI + terminal implementation of Scott Logic hackathon challenge.
 
-
-2754
-
-https://insiders.liveshare.vsengsaas.visualstudio.com/join?FF15FB2314856833122A3A34B7C791BADACC
+1st place winners!
