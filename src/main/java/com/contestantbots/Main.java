@@ -24,7 +24,7 @@ public class Main {
 
             // the opponents you'll be facing - there must be at least 1 of them, and can be more on larger maps
             Arrays.asList(
-                Opponent.Milestone2),
+                Opponent.Milestone3),
 
             // disables the time limit on each bot's turn - this saves you from
             // being disqualified when you're debugging your code

@@ -42,3 +42,9 @@ bin/main/com/contestantbots/framework/ContestantBotImplementation\$InternalComma
 *.lock
 
 *.properties
+
+*.tar
+
+*.zip
+
+*.jar
